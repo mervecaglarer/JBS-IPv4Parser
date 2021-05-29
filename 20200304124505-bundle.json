@@ -1,0 +1,1196 @@
+{
+  "0000:0000:0000:0000:0000:ffff:1b0a:6b97": {
+    "ip": "0000:0000:0000:0000:0000:ffff:1b0a:6b97",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824862,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2600:8800:3800:0930:983f:bcbe:fc6f:f2df": {
+    "ip": "2600:8800:3800:0930:983f:bcbe:fc6f:f2df",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325884902,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:55f5:1a43": {
+    "ip": "0000:0000:0000:0000:0000:ffff:55f5:1a43",
+    "port": 8333,
+    "ping": {
+      "nonce": 7576581687947020549
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325883,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 34846,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": -1611355184413539341,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.18.1/"
+    },
+    "connectionTry": 1583325883044,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:b9d4:aabe": {
+    "ip": "0000:0000:0000:0000:0000:ffff:b9d4:aabe",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824864,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2001:16b8:6f01:c400:e8b1:6a6c:3af5:e457": {
+    "ip": "2001:16b8:6f01:c400:e8b1:6a6c:3af5:e457",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325834863,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:c3b5:aeae": {
+    "ip": "0000:0000:0000:0000:0000:ffff:c3b5:aeae",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814611,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5d23:bf19": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5d23:bf19",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814840,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:2ff4:25a3": {
+    "ip": "0000:0000:0000:0000:0000:ffff:2ff4:25a3",
+    "port": 59070,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325902873,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2003:00ed:af2f:8d01:90bf:6dee:bf41:cdaa": {
+    "ip": "2003:00ed:af2f:8d01:90bf:6dee:bf41:cdaa",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325834874,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5457:ded8": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5457:ded8",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824898,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4e44:8bb9": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4e44:8bb9",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325901164,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:67c0:3d3a": {
+    "ip": "0000:0000:0000:0000:0000:ffff:67c0:3d3a",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325843000,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2600:3c00:0000:0000:f03c:92ff:fee4:a084": {
+    "ip": "2600:3c00:0000:0000:f03c:92ff:fee4:a084",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325891154,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:d98a:cdd0": {
+    "ip": "0000:0000:0000:0000:0000:ffff:d98a:cdd0",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325883348,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:0309:c58c": {
+    "ip": "0000:0000:0000:0000:0000:ffff:0309:c58c",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325896355,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5fd8:c8af": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5fd8:c8af",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325896643,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2a01:04f8:010a:1b0a:0000:0000:0000:0002": {
+    "ip": "2a01:04f8:010a:1b0a:0000:0000:0000:0002",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814854,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4c4f:fb8a": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4c4f:fb8a",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325864890,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4bb9:d3bc": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4bb9:d3bc",
+    "port": 8333,
+    "ping": {
+      "nonce": 348519896783752487
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325835,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 55440,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": -6436937965078036462,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.18.1/"
+    },
+    "connectionTry": 1583325834869,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:79db:e395": {
+    "ip": "0000:0000:0000:0000:0000:ffff:79db:e395",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325844872,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4071:201d": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4071:201d",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325886345,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2001:0000:2851:782c:24a7:387c:3f57:feb9": {
+    "ip": "2001:0000:2851:782c:24a7:387c:3f57:feb9",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325888652,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:42a5:5fa9": {
+    "ip": "0000:0000:0000:0000:0000:ffff:42a5:5fa9",
+    "port": 8333,
+    "ping": {
+      "nonce": -8552790184848559557
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325884,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 50622,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": 5232349773762817239,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.16.0/"
+    },
+    "connectionTry": 1583325884895,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "2001:16b8:02e6:8e00:0423:3fde:0603:2ea6": {
+    "ip": "2001:16b8:02e6:8e00:0423:3fde:0603:2ea6",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325896352,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:3d8c:1b3e": {
+    "ip": "0000:0000:0000:0000:0000:ffff:3d8c:1b3e",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325874889,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:62c1:3a82": {
+    "ip": "0000:0000:0000:0000:0000:ffff:62c1:3a82",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824869,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:25c1:e310": {
+    "ip": "0000:0000:0000:0000:0000:ffff:25c1:e310",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325882860,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:676b:c4cb": {
+    "ip": "0000:0000:0000:0000:0000:ffff:676b:c4cb",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325903202,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2001:08f1:1404:3700:5df5:38ec:db0f:3b16": {
+    "ip": "2001:08f1:1404:3700:5df5:38ec:db0f:3b16",
+    "port": 9444,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325873032,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:415c:a911": {
+    "ip": "0000:0000:0000:0000:0000:ffff:415c:a911",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325855104,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:d942:9fd2": {
+    "ip": "0000:0000:0000:0000:0000:ffff:d942:9fd2",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325873840,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:058e:8eba": {
+    "ip": "0000:0000:0000:0000:0000:ffff:058e:8eba",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325873035,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:be0f:ae01": {
+    "ip": "0000:0000:0000:0000:0000:ffff:be0f:ae01",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325834860,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:12b9:f063": {
+    "ip": "0000:0000:0000:0000:0000:ffff:12b9:f063",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325836302,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:bc66:edf7": {
+    "ip": "0000:0000:0000:0000:0000:ffff:bc66:edf7",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814831,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:9df5:cfd8": {
+    "ip": "0000:0000:0000:0000:0000:ffff:9df5:cfd8",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814841,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5434:cf52": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5434:cf52",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325853826,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:d588:53df": {
+    "ip": "0000:0000:0000:0000:0000:ffff:d588:53df",
+    "port": 8333,
+    "ping": {
+      "nonce": 4344836663865133195
+    },
+    "version": {
+      "version": 70015,
+      "services": 1032,
+      "timestamp": 1583325888,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 41366,
+      "transServices": 1032,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": 7379118155654408206,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 18,
+      "user_agent": "/Satoshi:0.19.0.1/"
+    },
+    "connectionTry": 1583325888672,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "2a04:2416:8302:7780:7078:9893:6cb6:b776": {
+    "ip": "2a04:2416:8302:7780:7078:9893:6cb6:b776",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814834,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4c49:d536": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4c49:d536",
+    "port": 8333,
+    "ping": {
+      "nonce": -2451201770969853736
+    },
+    "version": {
+      "version": 70015,
+      "services": 1033,
+      "timestamp": 1583325866,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 39902,
+      "transServices": 1033,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": 4314253868149213220,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.18.1/"
+    },
+    "connectionTry": 1583325864882,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:cb81:3940": {
+    "ip": "0000:0000:0000:0000:0000:ffff:cb81:3940",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824847,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4df3:b7aa": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4df3:b7aa",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325883855,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:c1b0:d347": {
+    "ip": "0000:0000:0000:0000:0000:ffff:c1b0:d347",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325878647,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:55d4:4e56": {
+    "ip": "0000:0000:0000:0000:0000:ffff:55d4:4e56",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325844882,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:34a4:bda8": {
+    "ip": "0000:0000:0000:0000:0000:ffff:34a4:bda8",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814823,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2601:0648:8300:747d:7410:79b5:a5b5:cc92": {
+    "ip": "2601:0648:8300:747d:7410:79b5:a5b5:cc92",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814841,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:d966:8d41": {
+    "ip": "0000:0000:0000:0000:0000:ffff:d966:8d41",
+    "port": 8333,
+    "ping": {
+      "nonce": 9062338531591360735
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325864,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 47700,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": -2977984307639946927,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.18.1/"
+    },
+    "connectionTry": 1583325865110,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:d98a:ca28": {
+    "ip": "0000:0000:0000:0000:0000:ffff:d98a:ca28",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325894910,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:2d4c:1a22": {
+    "ip": "0000:0000:0000:0000:0000:ffff:2d4c:1a22",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325863026,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:b254:0ee8": {
+    "ip": "0000:0000:0000:0000:0000:ffff:b254:0ee8",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824858,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5e7d:f3c3": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5e7d:f3c3",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325854874,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:7455:0fe5": {
+    "ip": "0000:0000:0000:0000:0000:ffff:7455:0fe5",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325834867,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:d4a1:09bb": {
+    "ip": "0000:0000:0000:0000:0000:ffff:d4a1:09bb",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325835084,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:586d:769f": {
+    "ip": "0000:0000:0000:0000:0000:ffff:586d:769f",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325874896,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:1400:0002": {
+    "ip": "0000:0000:0000:0000:0000:ffff:1400:0002",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325897756,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:6296:d3c2": {
+    "ip": "0000:0000:0000:0000:0000:ffff:6296:d3c2",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325856328,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2600:1700:ed80:a610:8591:e56e:c2f7:1bf2": {
+    "ip": "2600:1700:ed80:a610:8591:e56e:c2f7:1bf2",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325865109,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:c14d:2309": {
+    "ip": "0000:0000:0000:0000:0000:ffff:c14d:2309",
+    "port": 8333,
+    "ping": {
+      "nonce": -5983952278834016381
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325833,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 41650,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": 1787098432920265925,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.18.0/"
+    },
+    "connectionTry": 1583325834870,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:6dfc:4b4d": {
+    "ip": "0000:0000:0000:0000:0000:ffff:6dfc:4b4d",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814821,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4fed:397b": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4fed:397b",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325864885,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2001:41d0:0002:f1d6:0000:0000:0000:0000": {
+    "ip": "2001:41d0:0002:f1d6:0000:0000:0000:0000",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325863024,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4275:06ba": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4275:06ba",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325876339,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:549e:ef14": {
+    "ip": "0000:0000:0000:0000:0000:ffff:549e:ef14",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814837,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:69d8:1270": {
+    "ip": "0000:0000:0000:0000:0000:ffff:69d8:1270",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814858,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2001:16b8:2618:9200:ea19:9969:0ece:d17a": {
+    "ip": "2001:16b8:2618:9200:ea19:9969:0ece:d17a",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824865,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5537:e645": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5537:e645",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325903202,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:63ee:154b": {
+    "ip": "0000:0000:0000:0000:0000:ffff:63ee:154b",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325854884,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2a01:04f8:0c2c:c79c:0000:0000:0000:0001": {
+    "ip": "2a01:04f8:0c2c:c79c:0000:0000:0000:0001",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814844,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:c3ce:69d9": {
+    "ip": "0000:0000:0000:0000:0000:ffff:c3ce:69d9",
+    "port": 7233,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325888654,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:2f5a:562a": {
+    "ip": "0000:0000:0000:0000:0000:ffff:2f5a:562a",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325836275,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:4630:1c11": {
+    "ip": "0000:0000:0000:0000:0000:ffff:4630:1c11",
+    "port": 8333,
+    "ping": {
+      "nonce": -2802999121880207733
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325836,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 45632,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": 6330606199113916960,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 18,
+      "user_agent": "/Satoshi:0.17.0.1/"
+    },
+    "connectionTry": 1583325834903,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:b90b:e01f": {
+    "ip": "0000:0000:0000:0000:0000:ffff:b90b:e01f",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325884903,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:733c:9306": {
+    "ip": "0000:0000:0000:0000:0000:ffff:733c:9306",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325886637,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:c87e:c6ae": {
+    "ip": "0000:0000:0000:0000:0000:ffff:c87e:c6ae",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824868,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5250:8edb": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5250:8edb",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325853010,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:675b:add2": {
+    "ip": "0000:0000:0000:0000:0000:ffff:675b:add2",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325868640,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:330f:f33f": {
+    "ip": "0000:0000:0000:0000:0000:ffff:330f:f33f",
+    "port": 8333,
+    "ping": {
+      "nonce": 2478505364044198638
+    },
+    "version": {
+      "version": 70015,
+      "services": 1036,
+      "timestamp": 1583325846,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 56936,
+      "transServices": 1036,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": -7012454555632451296,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 18,
+      "user_agent": "/Satoshi:0.17.0.1/"
+    },
+    "connectionTry": 1583325846619,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:b496:5cf5": {
+    "ip": "0000:0000:0000:0000:0000:ffff:b496:5cf5",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325866334,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5200:864c": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5200:864c",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325883869,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5dcc:eacf": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5dcc:eacf",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325834872,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:2fc5:040b": {
+    "ip": "0000:0000:0000:0000:0000:ffff:2fc5:040b",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325892866,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:d054:9bf0": {
+    "ip": "0000:0000:0000:0000:0000:ffff:d054:9bf0",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325858626,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:2873:45af": {
+    "ip": "0000:0000:0000:0000:0000:ffff:2873:45af",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325872849,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:23bb:c659": {
+    "ip": "0000:0000:0000:0000:0000:ffff:23bb:c659",
+    "port": 8333,
+    "ping": {
+      "nonce": -2008410502236063323
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325815,
+      "recvServices": 1,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:23bb:c659",
+      "recvPort": 8333,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": -145213116180567995,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.18.0/"
+    },
+    "connectionTry": 1583325814830,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:1901:8e3c": {
+    "ip": "0000:0000:0000:0000:0000:ffff:1901:8e3c",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325891156,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:7533:8d4f": {
+    "ip": "0000:0000:0000:0000:0000:ffff:7533:8d4f",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325846324,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:018f:5a48": {
+    "ip": "0000:0000:0000:0000:0000:ffff:018f:5a48",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325893878,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:62cc:f88c": {
+    "ip": "0000:0000:0000:0000:0000:ffff:62cc:f88c",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325844876,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5fd8:09f0": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5fd8:09f0",
+    "port": 8433,
+    "ping": {
+      "nonce": -3722790723939996217
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325823,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 54194,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": 2992071183332351145,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.18.1/"
+    },
+    "connectionTry": 1583325824852,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:558c:139a": {
+    "ip": "0000:0000:0000:0000:0000:ffff:558c:139a",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325854879,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:2f5a:5fe5": {
+    "ip": "0000:0000:0000:0000:0000:ffff:2f5a:5fe5",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325863836,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:053b:f138": {
+    "ip": "0000:0000:0000:0000:0000:ffff:053b:f138",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325845096,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "2600:1700:46b0:9bb0:902b:2753:9ae0:701d": {
+    "ip": "2600:1700:46b0:9bb0:902b:2753:9ae0:701d",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325814857,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:6ced:b5e2": {
+    "ip": "0000:0000:0000:0000:0000:ffff:6ced:b5e2",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325824859,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:70fd:0b85": {
+    "ip": "0000:0000:0000:0000:0000:ffff:70fd:0b85",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325846292,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:bca6:a1f0": {
+    "ip": "0000:0000:0000:0000:0000:ffff:bca6:a1f0",
+    "port": 12900,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325834876,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:5df1:3503": {
+    "ip": "0000:0000:0000:0000:0000:ffff:5df1:3503",
+    "port": 8333,
+    "ping": {
+      "nonce": -4827306276201986031
+    },
+    "version": {
+      "version": 70015,
+      "services": 1037,
+      "timestamp": 1583325891,
+      "recvServices": 0,
+      "recvIp": "0000:0000:0000:0000:0000:ffff:34b2:201b",
+      "recvPort": 34848,
+      "transServices": 1037,
+      "transIp": "0000:0000:0000:0000:0000:0000:0000:0000",
+      "transPort": 0,
+      "nonce": 182736559551709837,
+      "start_height": 620149,
+      "relay": 1,
+      "user_agents_bytes": 16,
+      "user_agent": "/Satoshi:0.18.1/"
+    },
+    "connectionTry": 1583325891054,
+    "timeout": false,
+    "success": true,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:02e0:f650": {
+    "ip": "0000:0000:0000:0000:0000:ffff:02e0:f650",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325832978,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  },
+  "0000:0000:0000:0000:0000:ffff:43f9:0e31": {
+    "ip": "0000:0000:0000:0000:0000:ffff:43f9:0e31",
+    "port": 8333,
+    "ping": null,
+    "version": null,
+    "connectionTry": 1583325872726,
+    "timeout": false,
+    "success": false,
+    "exception": null
+  }
+}
